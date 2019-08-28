@@ -133,5 +133,4 @@ Refer each steps
 - [Google Plus](https://plus.google.com/u/3/110861829188024231119)
 
 ### Diagrams
-
 - Check notes.md
